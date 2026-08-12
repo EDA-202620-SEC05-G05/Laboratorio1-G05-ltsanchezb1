@@ -39,8 +39,8 @@ Este repositorio forma parte del marco docente de estructura de datos y algoritm
 Los estudiantes editan esta sección para agregar sus nombres, correos electrónicos de Uniandes y especificar qué funcionalidad de proyecto implementarán.
 
 1. Larry Thomas Sanchez Beltran 1, lt.sanchezb1@uniandes.edu.co Uniandes, 202615358.
-1. Jorge Claros Segura 2, j.claros23@uniandes.edu.co Uniandes, 202619856.
-1. Juan Gonzales Claros, jg.claros45@uniandes.edu.co Uniandes, 202685963.
+1. Jorge Claros Segura 2, j.claross2@uniandes.edu.co Uniandes, 202619856.
+1. Juan Gonzales Claros, j.gonzalez2345@uniandes.edu.co Uniandes, 202685963.
 
 [Volver al inicio](#laboratorio-1)
 
