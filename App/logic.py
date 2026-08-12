@@ -116,10 +116,10 @@ def load_tags(catalog, filename):
     tagsfile = os.path.join(data_dir, filename)
     catalog["tags"] = set.load_set(tags, tagsfile)
 
-    if set.is_empty(tags):
+    if set.is_empty(catalog["tags"]):
         return 0
     else:
-        return set.size(tags)
+        return set.size(catalog["tags"])
 
 
 def load_books_tags(catalog, filename):
@@ -130,13 +130,13 @@ def load_books_tags(catalog, filename):
     """
     # TODO: Mods Lab 1, integrar vista y logica
     # …
-    book_tags = catalog.get("Book_tags")
+    book_tags = catalog.get("book_tags")
     book_tags_file = os.path.join(data_dir, filename)
     catalog["Book_tags"] = set.load_set(book_tags, book_tags_file)
     if book_tags is None:
         return None
     else:
-        return set.size(catalog.get("Book_tags"))
+        return set.size(catalog.get("book_tags"))
 
 
 def book_size(catalog):
