@@ -1,4 +1,4 @@
-<!-- SAMPLE MVC -->
+<!-- SAMPLE MVC --> entrega final
 
 # Laboratorio 1:
 
